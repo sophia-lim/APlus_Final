@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 0676d714516284899888afcea754b746
+timeCreated: 1491577124
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera.001
+    100004: Columns_Sarah
+    100006: DoorCutout_Sophia
+    100008: Fountain_Sophia
+    100010: HumanPlaceholder
+    100012: Lamp
+    100014: Staircase_Sophia
+    100016: Statue_Sophia.001
+    100018: Statue_Sophia.001_MeshPart0
+    100020: Statue_Sophia.001_MeshPart1
+    100022: Statue_Sophia.001_MeshPart2
+    100024: Statue_Sophia.001_MeshPart3
+    100026: Statue_Sophia.001_MeshPart4
+    100028: Statue_Sophia.001_MeshPart5
+    100030: Statue_Sophia.001_MeshPart6
+    100032: TempleBase_Sophia
+    100034: TempleHall_Sophia
+    100036: Tree_Sophia
+    100038: WindowCutout_Sophia
+    100040: WindowCylinders_Sophia
+    400000: //RootNode
+    400002: Camera.001
+    400004: Columns_Sarah
+    400006: DoorCutout_Sophia
+    400008: Fountain_Sophia
+    400010: HumanPlaceholder
+    400012: Lamp
+    400014: Staircase_Sophia
+    400016: Statue_Sophia.001
+    400018: Statue_Sophia.001_MeshPart0
+    400020: Statue_Sophia.001_MeshPart1
+    400022: Statue_Sophia.001_MeshPart2
+    400024: Statue_Sophia.001_MeshPart3
+    400026: Statue_Sophia.001_MeshPart4
+    400028: Statue_Sophia.001_MeshPart5
+    400030: Statue_Sophia.001_MeshPart6
+    400032: TempleBase_Sophia
+    400034: TempleHall_Sophia
+    400036: Tree_Sophia
+    400038: WindowCutout_Sophia
+    400040: WindowCylinders_Sophia
+    2300000: Columns_Sarah
+    2300002: DoorCutout_Sophia
+    2300004: Fountain_Sophia
+    2300006: HumanPlaceholder
+    2300008: Staircase_Sophia
+    2300010: Statue_Sophia.001_MeshPart0
+    2300012: Statue_Sophia.001_MeshPart1
+    2300014: Statue_Sophia.001_MeshPart2
+    2300016: Statue_Sophia.001_MeshPart3
+    2300018: Statue_Sophia.001_MeshPart4
+    2300020: Statue_Sophia.001_MeshPart5
+    2300022: Statue_Sophia.001_MeshPart6
+    2300024: TempleBase_Sophia
+    2300026: TempleHall_Sophia
+    2300028: Tree_Sophia
+    2300030: WindowCutout_Sophia
+    2300032: WindowCylinders_Sophia
+    3300000: Columns_Sarah
+    3300002: DoorCutout_Sophia
+    3300004: Fountain_Sophia
+    3300006: HumanPlaceholder
+    3300008: Staircase_Sophia
+    3300010: Statue_Sophia.001_MeshPart0
+    3300012: Statue_Sophia.001_MeshPart1
+    3300014: Statue_Sophia.001_MeshPart2
+    3300016: Statue_Sophia.001_MeshPart3
+    3300018: Statue_Sophia.001_MeshPart4
+    3300020: Statue_Sophia.001_MeshPart5
+    3300022: Statue_Sophia.001_MeshPart6
+    3300024: TempleBase_Sophia
+    3300026: TempleHall_Sophia
+    3300028: Tree_Sophia
+    3300030: WindowCutout_Sophia
+    3300032: WindowCylinders_Sophia
+    4300000: HumanPlaceholder
+    4300002: Tree_Sophia
+    4300004: Staircase_Sophia
+    4300006: Fountain_Sophia
+    4300008: DoorCutout_Sophia
+    4300010: WindowCylinders_Sophia
+    4300012: WindowCutout_Sophia
+    4300014: TempleBase_Sophia
+    4300016: TempleHall_Sophia
+    4300018: Columns_Sarah
+    4300020: Statue_Sophia.001_MeshPart0
+    4300022: Statue_Sophia.001_MeshPart1
+    4300024: Statue_Sophia.001_MeshPart2
+    4300026: Statue_Sophia.001_MeshPart3
+    4300028: Statue_Sophia.001_MeshPart4
+    4300030: Statue_Sophia.001_MeshPart5
+    4300032: Statue_Sophia.001_MeshPart6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
